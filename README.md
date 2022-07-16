@@ -1,4 +1,4 @@
-# flutter_course_8_challenge_1_magic_8_ball
+# flutter_course_8_magic_8_ball
 
 A new Flutter project.
 
